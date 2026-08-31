@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://gov-service-navigator.vercel.app"><img alt="Live demo" src="https://img.shields.io/badge/live_demo-gov--service--navigator-046C4E?style=flat-square"></a>
-  <img alt="Repositories" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRayyanAlam1&query=%24.public_repos&label=repositories&color=1D5B9A&style=flat-square">
 </p>
 
 ---
