@@ -4,7 +4,7 @@
 
 # Hafiz S M Rayyan Alam
 
-**Computer Science @ FAST NUCES**
+**Assistant Manager — AI @ Stingray Tec** · BSCS @ FAST NUCES
 
 <a href="https://rayyanalam1.github.io"><img src="https://img.shields.io/badge/Portfolio-rayyanalam1.github.io-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 <a href="https://gov-service-navigator.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-Government_Service_AI-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"></a>
@@ -26,8 +26,27 @@ model, and which parts must be code you can test.** Most of what I build sits on
 
 - 🔭 Building **[Government Service AI Navigator](https://gov-service-navigator.vercel.app)** — live, deployed, and evaluated against 51 scripted scenarios
 - 🧪 I never claim "grounded" without a number attached — there is a harness, and CI fails the build if one unsupported claim gets through
+- 👁️ Day to day: **real-time computer vision** — YOLO, tracking, depth and distance estimation
 - 🗣️ Ships in **English, Urdu and Roman Urdu**
 - 💬 Ask me about grounded RAG, three-valued logic, or why a good fallback beats a confident guess
+
+---
+
+## 💼 Experience
+
+**Assistant Manager — AI** · *Stingray Tec* · `2026 — Present`
+Production AI systems — computer vision, generative AI and LLM applications built to run in the field.
+Real-time video with custom-trained **YOLO** models, object detection and tracking; monocular distance and
+depth estimation for perception; **RAG** pipelines and agentic workflows served through Python and FastAPI.
+Full lifecycle: data → model → inference → integration → deployment.
+
+**Research Assistant — Generative AI in Education** · *FAST-NUCES* · `Summer 2025`
+Researched where generative AI genuinely helps in higher education — LLM-based tools for teaching,
+assessment, knowledge assistance and student productivity.
+
+**Full Stack Developer Intern** · *XOLVA* · `Summer 2023`
+Full-stack applications with React.js, Node.js, Express and PostgreSQL. REST APIs, backend services,
+database architecture, and frontend/backend integration.
 
 ---
 
@@ -87,6 +106,14 @@ suite still passes.
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Computer Vision**
+
+![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Object Detection](https://img.shields.io/badge/-Object_Detection-EE4C2C?style=flat-square)
+![Tracking](https://img.shields.io/badge/-Tracking-EE4C2C?style=flat-square)
+![Depth Estimation](https://img.shields.io/badge/-Depth_Estimation-EE4C2C?style=flat-square)
 
 **Languages**
 
