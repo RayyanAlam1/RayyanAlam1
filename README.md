@@ -6,7 +6,8 @@
 
 **Computer Science @ FAST NUCES**
 
-<a href="https://gov-service-navigator.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-Government_Service_AI-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"></a>
+<a href="https://rayyanalam1.github.io"><img src="https://img.shields.io/badge/Portfolio-rayyanalam1.github.io-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://gov-service-navigator.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-Government_Service_AI-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"></a>
 <a href="https://www.linkedin.com/in/rayyanalam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:hafizrayyanalam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
@@ -157,7 +158,7 @@ Coursework lives in **[Compiler-Construction](https://github.com/RayyanAlam1/Com
 <a href="https://www.linkedin.com/in/rayyanalam"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:hafizrayyanalam@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/RayyanAlam1"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://gov-service-navigator.vercel.app"><img src="https://img.shields.io/badge/-Live_Project-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Live project"></a>
+<a href="https://rayyanalam1.github.io"><img src="https://img.shields.io/badge/-Portfolio-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 
 </div>
 
