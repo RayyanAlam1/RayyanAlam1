@@ -4,7 +4,7 @@
 
 # Hafiz S M Rayyan Alam
 
-**Assistant Manager — AI @ Stingray Tec** · BSCS @ FAST NUCES
+**Assistant Manager  AI @ Stingray Tec** · BSCS @ FAST NUCES
 
 <a href="https://rayyanalam1.github.io"><img src="https://img.shields.io/badge/Portfolio-rayyanalam1.github.io-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 <a href="https://gov-service-navigator.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-Government_Service_AI-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"></a>
@@ -15,18 +15,18 @@
 
 ---
 
-## 🧭 About
+## About
 
 Most AI demos fail the same way: they answer confidently, they answer wrong, and you only find out
-afterwards. That is tolerable in a chatbot and unacceptable in a system someone *acts on* — a government
+afterwards. That is tolerable in a chatbot and unacceptable in a system someone *acts on*  a government
 procedure, a credit decision, a bias audit.
 
 So the question I keep circling is the boundary: **which parts of a system are allowed to be a language
 model, and which parts must be code you can test.** Most of what I build sits on that line.
 
-- 🔭 Building **[Government Service AI Navigator](https://gov-service-navigator.vercel.app)** — live, deployed, and evaluated against 51 scripted scenarios
-- 🧪 I never claim "grounded" without a number attached — there is a harness, and CI fails the build if one unsupported claim gets through
-- 👁️ Day to day: **real-time computer vision** — YOLO, tracking, depth and distance estimation
+- 🔭 Building **[Government Service AI Navigator](https://gov-service-navigator.vercel.app)**  live, deployed, and evaluated against 51 scripted scenarios
+- 🧪 I never claim "grounded" without a number attached  there is a harness, and CI fails the build if one unsupported claim gets through
+- 👁️ Day to day: **real-time computer vision**  YOLO, tracking, depth and distance estimation
 - 🗣️ Ships in **English, Urdu and Roman Urdu**
 - 💬 Ask me about grounded RAG, three-valued logic, or why a good fallback beats a confident guess
 
@@ -34,14 +34,14 @@ model, and which parts must be code you can test.** Most of what I build sits on
 
 ## 💼 Experience
 
-**Assistant Manager — AI** · *Stingray Tec* · `2026 — Present`
-Production AI systems — computer vision, generative AI and LLM applications built to run in the field.
+**Assistant Manager  AI** · *Stingray Tec* · `2026  Present`
+Production AI systems  computer vision, generative AI and LLM applications built to run in the field.
 Real-time video with custom-trained **YOLO** models, object detection and tracking; monocular distance and
 depth estimation for perception; **RAG** pipelines and agentic workflows served through Python and FastAPI.
 Full lifecycle: data → model → inference → integration → deployment.
 
-**Research Assistant — Generative AI in Education** · *FAST-NUCES* · `Summer 2025`
-Researched where generative AI genuinely helps in higher education — LLM-based tools for teaching,
+**Research Assistant  Generative AI in Education** · *FAST-NUCES* · `Summer 2025`
+Researched where generative AI genuinely helps in higher education  LLM-based tools for teaching,
 assessment, knowledge assistance and student productivity.
 
 **Full Stack Developer Intern** · *XOLVA* · `Summer 2023`
@@ -50,7 +50,7 @@ database architecture, and frontend/backend integration.
 
 ---
 
-## 🏆 Featured — Government Service AI Navigator
+## 🏆 Featured  Government Service AI Navigator
 
 <div align="center">
 
@@ -69,18 +69,18 @@ It is built around one rule:
 >
 > Not a fee. Not a deadline. Not a document name. Every such fact traces to a database row or a retrieved
 > chunk of an official document, and carries its source to the screen. The model detects intent, phrases
-> questions, and translates — nothing else.
+> questions, and translates  nothing else.
 
-The test for whether that boundary actually holds: **swap the model for a template renderer — are the
+The test for whether that boundary actually holds: **swap the model for a template renderer  are the
 answers still correct?** They are. `LLM_PROVIDER=mock` runs the whole system that way, and the evaluation
 suite still passes.
 
 | | |
 |:--|:--|
-| 🎯 **Interview** | Asks only questions whose answer can change the outcome — real information gain over the rule set, not a shortened form. Averages **4.5 questions**. |
-| 🔍 **Grounding** | An output verifier scans every rendered number, duration, count and URL, and rejects anything not traceable to a fact — including numbers that drift during translation. |
+| 🎯 **Interview** | Asks only questions whose answer can change the outcome  real information gain over the rule set, not a shortened form. Averages **4.5 questions**. |
+| 🔍 **Grounding** | An output verifier scans every rendered number, duration, count and URL, and rejects anything not traceable to a fact  including numbers that drift during translation. |
 | 📊 **Evaluation** | 51 scripted citizen paths · 3 services · 3 languages · prompt injections included. **100%** service and scenario identification, **100%** document F1, **0 unsupported claims**. |
-| 🤲 **Honesty** | Unverified fees ship as `NULL` and render as *"not verified — confirm at the counter."* A plausible invented number is worse than a blank one. |
+| 🤲 **Honesty** | Unverified fees ship as `NULL` and render as *"not verified  confirm at the counter."* A plausible invented number is worse than a blank one. |
 
 <div align="center">
 
@@ -155,7 +155,7 @@ suite still passes.
 ![Languages](https://img.shields.io/badge/ships_in-English_%C2%B7_Urdu_%C2%B7_Roman_Urdu-1D5B9A?style=for-the-badge)
 ![Tests](https://img.shields.io/badge/tests-110_passing-1D5B9A?style=for-the-badge)
 
-<sub>Measured by the evaluation harness in <a href="https://github.com/RayyanAlam1/gov-service-navigator">gov-service-navigator</a> — not estimated.</sub>
+<sub>Measured by the evaluation harness in <a href="https://github.com/RayyanAlam1/gov-service-navigator">gov-service-navigator</a>  not estimated.</sub>
 
 </div>
 
@@ -167,14 +167,14 @@ suite still passes.
 |:--|:--|:--|
 | 🏛️ **[gov-service-navigator](https://github.com/RayyanAlam1/gov-service-navigator)** | Grounded citizen-services decision engine. Live, tested, deployed. | `Next.js` `pgvector` `RAG` |
 | 🤖 **[Autonomous-Enterprise-OS](https://github.com/RayyanAlam1/Autonomous-Enterprise-Operating-System)** | Multi-agent orchestration platform for enterprise workflows. | `Python` `FastAPI` `LLM` |
-| ⚖️ **[Bias-Detection](https://github.com/RayyanAlam1/Bias-Detection)** | Detecting bias in text — the measurement side of responsible AI. | `PyTorch` `Transformers` |
+| ⚖️ **[Bias-Detection](https://github.com/RayyanAlam1/Bias-Detection)** | Detecting bias in text  the measurement side of responsible AI. | `PyTorch` `Transformers` |
 | 💳 **[Credit_Card_Default](https://github.com/RayyanAlam1/Credit_Card_Default)** | Default prediction on the Taiwan credit dataset. | `scikit-learn` `Jupyter` |
 | 📊 **[IBA_Datathon](https://github.com/RayyanAlam1/IBA_Datathon)** | Competition work under time pressure. | `Python` `Pandas` |
 | 🔐 **[Escrow](https://github.com/RayyanAlam1/Escrow)** | Escrow payment system on the PERN stack. | `PostgreSQL` `React` |
 
 Coursework lives in **[Compiler-Construction](https://github.com/RayyanAlam1/Compiler-Construction)**,
 **[Information-Security](https://github.com/RayyanAlam1/Information-Security)** and
-**[DevOps](https://github.com/RayyanAlam1/DevOps)** — kept public because the working is worth more than the grade.
+**[DevOps](https://github.com/RayyanAlam1/DevOps)**  kept public because the working is worth more than the grade.
 
 ---
 
