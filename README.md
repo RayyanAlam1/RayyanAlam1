@@ -166,6 +166,7 @@ suite still passes.
 | Project | What it is | Stack |
 |:--|:--|:--|
 | 🏛️ **[gov-service-navigator](https://github.com/RayyanAlam1/gov-service-navigator)** | Grounded citizen-services decision engine. Live, tested, deployed. | `Next.js` `pgvector` `RAG` |
+| 🗺️ **[Manzil](https://github.com/RayyanAlam1/manzil)** | Multi-agent trip planning. I built the agent orchestrator and the evaluation harness. | `Python` `FastAPI` `RAG` |
 | 🤖 **[Autonomous-Enterprise-OS](https://github.com/RayyanAlam1/Autonomous-Enterprise-Operating-System)** | Multi-agent orchestration platform for enterprise workflows. | `Python` `FastAPI` `LLM` |
 | ⚖️ **[Bias-Detection](https://github.com/RayyanAlam1/Bias-Detection)** | Detecting bias in text  the measurement side of responsible AI. | `PyTorch` `Transformers` |
 | 💳 **[Credit_Card_Default](https://github.com/RayyanAlam1/Credit_Card_Default)** | Default prediction on the Taiwan credit dataset. | `scikit-learn` `Jupyter` |
